@@ -12,12 +12,12 @@ Minha trajetória em outras áreas me proporcionou uma série de habilidades val
 
 Essa experiência em resolver problemas complexos e trabalhar em equipes multidisciplinares certamente me faz um profissional completo, com uma **mentalidade orientada para resultados** e uma **forte paixão por criar soluções inovadoras**.
 
-## 💻 O que estou aprendendo
+## 💻 O que já aprendi e o que estou aprendendo
 
-- **HTML**, **CSS** e **JavaScript** (Fundamentos sólidos!)
-- **Metodologia BEM** (estruturando o código de forma eficiente)
-- **Responsividade** (sites que se adaptam a qualquer tela)
-- **React** (meu próximo passo!)
+- **HTML**, **CSS** e **JavaScript** (Fundamentos sólidos!) ✅
+- **Metodologia BEM** (estruturando o código de forma eficiente) ✅
+- **Responsividade** (sites que se adaptam a qualquer tela) ✅
+- **React** (meu próximo passo!) ⏳
 
 ## 💡 Minhas habilidades
 
@@ -32,5 +32,3 @@ Estou super empolgado com as oportunidades que a tecnologia oferece, e adoraria 
 
 - **GitHub**: [Clique aqui!](https://github.com/jlcambraia)
 - **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/joaoluizcambraia)
-
-"Adaptar-se é a chave para a evolução. E a tecnologia é a chave para o futuro!"
