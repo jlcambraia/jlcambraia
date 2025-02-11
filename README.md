@@ -30,5 +30,5 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 Estou super empolgado com as oportunidades que a tecnologia oferece, e adoraria conversar sobre projetos, desenvolvimento ou qualquer outra coisa que envolva inovação e criatividade.
 
-- **GitHub**: [Clique aqui!](https://github.com/jlcambraia)
 - **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/joaoluizcambraia)
+- **WhasApp**: [Clique aqui!](https://wa.me/5531996114022?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20!)
