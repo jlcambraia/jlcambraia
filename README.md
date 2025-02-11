@@ -30,7 +30,7 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 Estou super empolgado com as oportunidades que a tecnologia oferece, e adoraria conversar sobre projetos, desenvolvimento ou qualquer outra coisa que envolva inovação e criatividade.
 
-- **GitHub**: [João Cambraia](https://github.com/jlcambraia)
-- **LinkedIn**: [João Cambraia](https://www.linkedin.com/in/joaoluizcambraia)
+- **GitHub**: [Clique aqui!](https://github.com/jlcambraia)
+- **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/joaoluizcambraia)
 
 "Adaptar-se é a chave para a evolução. E a tecnologia é a chave para o futuro!"
