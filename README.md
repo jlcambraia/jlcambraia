@@ -16,7 +16,7 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 - ✅ **HTML**, **CSS** e **JavaScript** (Fundamentos sólidos!)
 - ✅ **Metodologia BEM** (estruturando o código de forma eficiente)
-- ✅ Git e GitHub (controle de versões e colaboração eficaz)
+- ✅ **Git e GitHub** (controle de versões e colaboração eficaz)
 - ✅ **Responsividade** (sites que se adaptam a qualquer tela)
 - ✅ **Programação Orientada a Objetos** (organizando o código com classes e reutilização eficiente)
 - ✅ **React** (desenvolvendo interfaces interativas com componentes reutilizáveis)
