@@ -4,7 +4,7 @@
 
 Após quase 15 anos de carreira na área de **Compras**, tomei uma decisão importante: **mudar para a área de tecnologia**. A paixão por inovação, resolução de problemas e desafios criativos me levou a seguir essa nova jornada, e hoje estou em plena **transição de carreira**.
 
-Atualmente, estou **estudando no Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos** e, agora, estou me aprofundando no **React**. Essa experiência tem sido incrível, e eu estou totalmente imerso no universo da programação e do desenvolvimento web.
+Atualmente, estou **estudando no Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **React** e, agora, estou me aprofundando em **Backend**. Essa experiência tem sido incrível, e eu estou totalmente imerso no universo da programação e do desenvolvimento web.
 
 ## O que me diferencia
 
