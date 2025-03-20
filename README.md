@@ -14,13 +14,14 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 ## O que já aprendi e o que estou aprendendo
 
-✅ **HTML5** e **CSS3** (Fundamentos sólidos!)  
-✅ **JavaScript** (Construindo interatividade e dinâmica no front-end)  
-✅ **Metodologia BEM** (estruturando o código de forma eficiente)  
-✅ **Responsividade** (sites que se adaptam a qualquer tela)  
-✅ **Git e GitHub** (controle de versões e colaboração eficaz)  
-✅ **Programação Orientada a Objetos** (organizando o código com classes e reutilização eficiente)  
-✅ **React** (desenvolvendo interfaces interativas com componentes reutilizáveis)  
+✅ **HTML5**  
+✅ **CSS3**  
+✅ **JavaScript**  
+✅ **Programação Orientada a Objetos**  
+✅ **React** 
+✅ **Metodologia BEM**  
+✅ **Responsividade**  
+✅ **Git e GitHub**  
 ⏳ **Node.js** (meu próximo passo!)  
 
 ## Minhas habilidades
