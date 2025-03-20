@@ -18,7 +18,7 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 ✅ **CSS3**  
 ✅ **JavaScript**  
 ✅ **Programação Orientada a Objetos**  
-✅ **React** 
+✅ **React**  
 ✅ **Metodologia BEM**  
 ✅ **Responsividade**  
 ✅ **Git e GitHub**  
