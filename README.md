@@ -14,17 +14,7 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 ## Minhas tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-✅ **HTML5**  
-✅ **CSS3**  
-✅ **JavaScript**  
-✅ **Programação Orientada a Objetos**  
-✅ **React**  
-✅ **Metodologia BEM**  
-✅ **Responsividade**  
-✅ **Git e GitHub**  
-⏳ **Node.js** (meu próximo passo!)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,nodejs,express)](https://skillicons.dev)
 
 ## Minhas habilidades
 
@@ -32,6 +22,13 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 - **Pensamento analítico** e resolução de problemas complexos
 - **Trabalho em equipe** e colaboração eficaz
 - **Foco em resultados** e atenção aos detalhes
+
+## Minhas Ferramentas e Metodologias
+
+✅ **Programação Orientada a Objetos**  
+✅ **Metodologia BEM**  
+✅ **Responsividade**  
+✅ **API REST**  
 
 ## 🌍 Vamos nos conectar!
 
