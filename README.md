@@ -12,7 +12,9 @@ Minha trajetória em outra área me proporcionou uma série de habilidades valio
 
 Essa experiência em resolver problemas complexos e trabalhar em equipes multidisciplinares certamente me faz um profissional completo, com uma **mentalidade orientada para resultados** e uma **forte paixão por criar soluções inovadoras**.
 
-## O que já aprendi e o que estou aprendendo
+## Minhas tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ✅ **HTML5**  
 ✅ **CSS3**  
