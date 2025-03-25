@@ -14,7 +14,9 @@ Essa experiência em resolver problemas complexos e trabalhar em equipes multidi
 
 ## Minhas tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,nodejs,express)](https://skillicons.dev)
+JavaScript • React • Vite • HTML5 • CSS3 • Git • GitHub • Nodejs • Express
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,git,github,nodejs,express)](https://skillicons.dev)
 
 ## Minhas habilidades
 
