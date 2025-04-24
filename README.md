@@ -38,7 +38,7 @@ Estou super empolgado com as oportunidades que a tecnologia oferece, e adoraria 
 
 <div>
   <a href="https://www.linkedin.com/in/joaoluizcambraia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531996114022?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20!" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5531996114022?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20!" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-00d757?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 - **LinkedIn**: [Clique aqui!](https://www.linkedin.com/in/joaoluizcambraia)
