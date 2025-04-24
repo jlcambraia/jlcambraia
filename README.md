@@ -2,15 +2,15 @@
 
 ## Sobre mim
 
-Após quase 15 anos de carreira na área de **Compras**, tomei uma decisão importante: **mudar para a área de tecnologia**. A paixão por inovação, resolução de problemas e desafios criativos me levou a seguir essa nova jornada, e hoje estou em plena **transição de carreira**.
+Após quase 15 anos na área de Compras, decidi **migrar para a tecnologia**, movido pela **paixão por inovação**, **resolução de problemas** e **desafios criativos**. 
 
-Atualmente, estou **estudando no Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **código assíncrono**, **React**, **Node.js**, **Express** e **MongoDB**. Essa experiência tem sido incrível, e eu estou totalmente imerso no universo da programação e do desenvolvimento web.
+Atualmente, estou em transição de carreira e cursando o **Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **código assíncrono**, **React**, **Node.js**, **Express** e **MongoDB**.
 
 ## O que me diferencia
 
-Minha trajetória em outra área me proporcionou uma série de habilidades valiosas que eu trago para o mundo da tecnologia. Como **comprador**, aprendi a **negociar**, a **trabalhar sob pressão**, a **gerenciar prazos** e **tomar decisões estratégicas**. Além disso, sou muito **adaptável**, o que me permite aprender rapidamente e me ajustar às mudanças, uma habilidade essencial em um ambiente tecnológico dinâmico.
+Minha experiência anterior trouxe habilidades como **negociação**, **tomada de decisões estratégicas**, **gestão de prazos** e **trabalho sob pressão**.
 
-Essa experiência em resolver problemas complexos e trabalhar em equipes multidisciplinares certamente me faz um profissional completo, com uma **mentalidade orientada para resultados** e uma **forte paixão por criar soluções inovadoras**.
+Sou **adaptável**, **aprendo rápido** e **tenho facilidade para atuar em equipes multidisciplinares**. Essa bagagem me torna um profissional **focado em resultados** e com **forte interesse em criar soluções inovadoras**.
 
 ## Minhas tecnologias
 
