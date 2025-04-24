@@ -30,6 +30,9 @@ JavaScript • React • Vite • HTML5 • CSS3 • Git • GitHub • Nodejs �
 ✅ **Programação Orientada a Objetos**  
 ✅ **Metodologia BEM**  
 ✅ **Responsividade**  
+✅ **Código assíncrono**  
+✅ **JSON Web Token (JWT)**  
+✅ **Google Cloud Platform (GCP)**  
 ✅ **API REST**  
 
 ## 🌍 Vamos nos conectar!
