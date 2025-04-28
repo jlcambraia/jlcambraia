@@ -2,15 +2,11 @@
 
 ## Sobre mim
 
-Após quase 15 anos na área de Compras, decidi **migrar para a tecnologia**, movido pela **paixão por inovação**, **resolução de problemas** e **desafios criativos**. 
-
-Atualmente, estou em transição de carreira e cursando o **Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **código assíncrono**, **React**, **Node.js**, **Express** e **MongoDB**.
+Após quase 15 anos na área de Compras, decidi **migrar para a tecnologia**, movido pela **paixão por inovação**, **resolução de problemas** e **desafios criativos**. Atualmente, estou em transição de carreira e cursando o **Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **código assíncrono**, **React**, **Node.js**, **Express** e **MongoDB**.
 
 ## O que me diferencia
 
-Minha experiência anterior trouxe habilidades como **negociação**, **tomada de decisões estratégicas**, **gestão de prazos** e **trabalho sob pressão**.
-
-Sou **adaptável**, **aprendo rápido** e **tenho facilidade para atuar em equipes multidisciplinares**. Essa bagagem me torna um profissional **focado em resultados** e com **forte interesse em criar soluções inovadoras**.
+Minha experiência anterior trouxe habilidades como **negociação**, **tomada de decisões estratégicas**, **gestão de prazos** e **trabalho sob pressão**. Sou **adaptável**, **aprendo rápido** e **tenho facilidade para atuar em equipes multidisciplinares**. Essa bagagem me torna um profissional **focado em resultados** e com **forte interesse em criar soluções inovadoras**.
 
 ## Minhas tecnologias
 
