@@ -10,9 +10,9 @@ Minha experiência anterior trouxe habilidades como **negociação**, **tomada d
 
 ## Minhas tecnologias
 
-JavaScript • React • Vite • HTML5 • CSS3 • Git • GitHub • Nodejs • Express • MongoDB
+JavaScript • TypeScript • React • Vite • HTML5 • CSS3 • Git • GitHub • Nodejs • Express • MongoDB
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,git,github,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,git,github,nodejs,express,mongodb)](https://skillicons.dev)
 
 ## Minhas habilidades
 
