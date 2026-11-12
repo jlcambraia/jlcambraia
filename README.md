@@ -1,41 +1,49 @@
-# Olá! Eu sou o João Luiz Cambraia 👋
+# Hi, I'm João Luiz Cambraia! 👋
 
-## Sobre mim
+**Full Stack Developer | JavaScript • PHP • SQL • React • TypeScript • Node.js**
 
-Após quase 15 anos na área de Compras, decidi **migrar para a tecnologia**, movido pela **paixão por inovação**, **resolução de problemas** e **desafios criativos**. Atualmente, estou em transição de carreira e cursando o **Bootcamp da TripleTen**, onde já aprendi **HTML**, **CSS**, **metodologia BEM**, **JavaScript**, **responsividade**, **Programação Orientada a Objetos**, **código assíncrono**, **React**, **Node.js**, **Express** e **MongoDB**.
+I'm a Full Stack Developer based in Brazil, currently working at **Teknisa**, developing and maintaining ERP applications using JavaScript, PHP, and SQL.
 
-## O que me diferencia
+I enjoy building software that solves real business problems, from frontend interfaces to backend logic, APIs, and system integrations.
 
-Minha experiência anterior trouxe habilidades como **negociação**, **tomada de decisões estratégicas**, **gestão de prazos** e **trabalho sob pressão**. Sou **adaptável**, **aprendo rápido** e **tenho facilidade para atuar em equipes multidisciplinares**. Essa bagagem me torna um profissional **focado em resultados** e com **forte interesse em criar soluções inovadoras**.
+Before transitioning into software development, I spent over a decade working in Procurement and Strategic Sourcing. This experience strengthened my analytical thinking, communication, ownership, and understanding of complex business processes.
 
-## Minhas tecnologias
+## 💼 Professional Experience
 
-JavaScript • TypeScript • React • Next.js • Vite • HTML5 • CSS3 • Git • GitHub • Nodejs • Express • MongoDB
+At Teknisa, I've independently implemented production features involving:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,html,css,git,github,nodejs,express,mongodb)](https://skillicons.dev)
+- International service invoice transmission for ERP customers outside Brazil.
+- OAuth 2.0 authentication for an email integration that retrieves XML documents for ERP import.
+- Brazilian Tax Reform requirements, including a DANFE layout redesign using PHP and FPDF.
 
-## Minhas habilidades
+All three implementations were deployed to production. The source code is proprietary and cannot be shared publicly.
 
-- **Adaptação rápida** e aprendizado contínuo
-- **Pensamento analítico** e resolução de problemas complexos
-- **Trabalho em equipe** e colaboração eficaz
-- **Foco em resultados** e atenção aos detalhes
+## 🛠️ Tech Stack
 
-## Minhas Ferramentas e Metodologias
+**Professional experience:** JavaScript, PHP, SQL, OAuth 2.0, Git, GitLab.
 
-✅ **Programação Orientada a Objetos**  
-✅ **Metodologia BEM**  
-✅ **Responsividade**  
-✅ **Código assíncrono**  
-✅ **JSON Web Token (JWT)**  
-✅ **Google Cloud Platform (GCP)**  
-✅ **API REST**  
+**Personal projects & independent learning:** TypeScript, React, Next.js, Node.js, Express, MongoDB, Python, HTML, CSS.
 
-## 🌍 Vamos nos conectar!
+## 🚀 Featured Projects
 
-Estou super empolgado com as oportunidades que a tecnologia oferece, e adoraria conversar sobre projetos, desenvolvimento ou qualquer outra coisa que envolva inovação e criatividade.
+### [Product Catalog](https://github.com/jlcambraia/product-catalog-frontend)
+A web application focused on product browsing and catalog management, built with Next.js, TypeScript, Express, and MongoDB.
 
-<div>
-  <a href="https://www.linkedin.com/in/joaoluizcambraia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531996114022?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20!" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-00d757?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+### [News Explorer](https://github.com/jlcambraia/news-explorer-frontend)
+A news search application featuring external API integration, authentication, and saved articles.
+
+### [Capputeeno](https://github.com/jlcambraia/web_project_basic-ecommerce)
+A responsive e-commerce interface focused on product browsing, user experience, and frontend development.
+
+## 🎓 Education
+
+- Full Stack Web Development — TripleTen (2025)
+- MBA in Business Management — FGV
+- Bachelor's Degree in Business Administration — FUMEC
+
+## 🌍 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joaoluizcambraia/)
+- [GitHub](https://github.com/jlcambraia)
+
+Open to connecting with developers, sharing knowledge, and discussing software engineering opportunities.
